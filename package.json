@@ -1,8 +1,7 @@
 {
   "name": "simple-queue-typescript",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
@@ -39,5 +38,7 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js"
 }
