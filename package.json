@@ -1,6 +1,6 @@
 {
   "name": "simple-queue-typescript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -26,9 +26,9 @@
   "author": "Ramu Ramasamy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramu93/simple-queue-js/issues"
+    "url": "https://github.com/Ramu93/simple-queue-typesctipt/issues"
   },
-  "homepage": "https://github.com/Ramu93/simple-queue-js#readme",
+  "homepage": "https://github.com/Ramu93/simple-queue-typesctipt#readme",
   "devDependencies": {
     "@types/jest": "^27.5.0",
     "jest": "^28.1.0",
