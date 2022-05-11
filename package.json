@@ -1,22 +1,29 @@
 {
-  "name": "simple-queue",
-  "version": "1.0.0",
+  "name": "simple-queue-typescript",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
-    "prepare" : "npm run build",
-    "prepublishOnly" : "npm test",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test",
     "version": "git add -A src",
-    "postversion" : "git push && git push --tags"
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramu93/simple-queue-js.git"
+    "url": "git+https://github.com/Ramu93/simple-queue-typesctipt.git"
   },
-  "keywords": ["simple", "queue", "queue js", "queue ts", "queue typescript", "queue javascript"],
-  "author": "",
+  "keywords": [
+    "simple",
+    "queue",
+    "queue js",
+    "queue ts",
+    "queue typescript",
+    "queue javascript"
+  ],
+  "author": "Ramu Ramasamy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ramu93/simple-queue-js/issues"
