@@ -21,7 +21,9 @@
     "queue js",
     "queue ts",
     "queue typescript",
-    "queue javascript"
+    "queue javascript",
+    "simple queue javascript",
+    "simple queue typescript"
   ],
   "author": "Ramu Ramasamy",
   "license": "ISC",
